@@ -17,8 +17,6 @@
 <img align="left" width="34px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/>
 
----
-
 #
 
 ## 🟢 Arts | Tools 🎨
