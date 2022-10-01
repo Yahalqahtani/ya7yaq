@@ -6,7 +6,7 @@ I love programming and arts, I post my simple projects here and there, I hope yo
 
 ---
 
-## 🔸 Languages | Tools 🗂️
+## #🔸 Languages | Tools 🗂️
 
 <img align="left" width="34px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" width="34px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
