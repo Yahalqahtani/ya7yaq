@@ -17,6 +17,8 @@ I love programming and arts, I post my simple projects here and there, I hope yo
 <img align="left" width="34px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br/>
 
+---
+
 ## 🟢 Arts | Tools 🎨
 
 <img align="left" width="34px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
