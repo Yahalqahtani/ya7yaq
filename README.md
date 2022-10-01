@@ -1,6 +1,6 @@
 # Yahya😁✨
 
-**`[Developer | Animator | Movies Director ] `**
+**`[Developer | Animator | Movies Director]`**
 
 I love programming and arts, I post my simple projects here and there, I hope you like it.
 
